@@ -1,1 +1,47 @@
+1. The history of data management platforms.
+data management platforms evolved to be data intelligence platforms.
+In 1980, businesses needed more than relational databases.
+
+Data warehouse:
+pros:
+support for Structured & Clean data, eg: csv
+Predefined schemas
+Business Intelligence (BI)
+Analytics
+
+cons:
+no support for semi or unstructured data, eg: txt, JSON, image, video
+inflexible schemas
+struggled with the large volume of data
+long processing time
+
+In 2000, big data came into the picture.
+Data lakes:
+pros:
+Flexible data storage (structured or semi or unstructured)
+streaming support
+cost efficient in the cloud
+support for AI and Machine Learning
+
+cons: lacks necessary features from data warehouses
+No transactional support
+poor data quality and reliability - due to various data formats
+slow analysis performance - due to a large volume of data
+data governance concerns - due to the unstructured nature of content
+data warehouse still needed
+
+In 2021, lakehouse architecture was introduced.
+lakehouse - an open and unified foundation for all your data.
+
+
+
+
+
+
+
+
+
+
+
+
 
