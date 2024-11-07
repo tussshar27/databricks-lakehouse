@@ -34,4 +34,38 @@ data warehouse still needed
 In 2021, lakehouse architecture was introduced.
 lakehouse - an open and unified foundation for all your data.
 
-![image](https://github.com/user-attachments/assets/d39bda0e-3e0e-4a15-82f2-30577f5e1fc4)
+![image](https://github.com/user-attachments/assets/7e08071b-438e-4651-8e1d-ddf98feb90da)
+
+![image](https://github.com/user-attachments/assets/90176d92-4639-4054-a73e-9825e9c697af)
+
+key features of a data lakehouse:
+1. Transaction support - ACID transactions for concurrent read/write operations
+2. schema enforcement and governance - for data integrity
+3. data governance - to support privacy regulations
+4. BI support - to reduce the latency between obtaining data and drawing insights
+5. Decouple storage from compute - each operates in its own cluster, allowing them to scale independently to support their specific needs.
+6. open storage formats - Apache Parquet, is open and standardized so that various data tools can access the data directly and efficiently. 
+7. support for diverse data types - structured, semi and unstructured data formats can be stored in one location.
+8. support for diverse workloads - data science, ML, and analytics
+9. end-to-end streaming - for real-time reports, removes the need to have a separate system for data analysis.
+
+Rise of Generative AI.
+databricks have brought together two technologies i.e., Data Lakehouse and Generative AI to form Data Intelligence Platform.
+![image](https://github.com/user-attachments/assets/70034866-c4e7-4f11-bea8-52e8dfe828bd)
+
+![image](https://github.com/user-attachments/assets/1ca3cac3-c06c-4cba-b694-a6ebf75317f0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
