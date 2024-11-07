@@ -60,7 +60,7 @@ Databricks:
 
 Databricks data intelligence platform:
 ![image](https://github.com/user-attachments/assets/9e6a5fdc-47c6-485f-abc5-aec644812457)
-
+Example:
 ![image](https://github.com/user-attachments/assets/e420fde2-28bc-4f48-afad-c6a6de09fef0)
 
 ![image](https://github.com/user-attachments/assets/1b7212db-c659-42af-8bf2-6a5d14827b2a)
@@ -68,6 +68,7 @@ Databricks data intelligence platform:
 ![image](https://github.com/user-attachments/assets/2ef0e82e-9584-4e1c-a61c-1c5aecedf5b4)
 
 ![image](https://github.com/user-attachments/assets/2e47a6f8-7fb4-456f-a397-0cbac4b8dafe)
+
 
 
 
