@@ -1,5 +1,5 @@
 # databricks-lakehouse
-1. The history of data management platforms.
+The history of data management platforms.
 data management platforms evolved to be data intelligence platforms.
 In 1980, businesses needed more than relational databases.
 
